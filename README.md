@@ -32,7 +32,7 @@ Ideal for:
 ## 🛠️ Technologies Used
 - **Python** – Core programming language
 - **Streamlit** – Interactive UI for submitting job URLs and viewing results
-- **LangChain** – For LLM orchestration, data parsing, and prompt management
-- **Groq API** – LLM backend for both job data extraction and cold email generation ([Get API Key](https://console.groq.com/keys))
+- **LangChain** – For LLM orchestration and chaining tasks
+- **Groq API** – LLM backend for cold email generation ([Get API Key](https://console.groq.com/keys))
 - **ChromaDB** – Vector store used to store and semantically match portfolio links based on job descriptions
 - **Web Scraping** – To extract job descriptions and metadata from career pages
