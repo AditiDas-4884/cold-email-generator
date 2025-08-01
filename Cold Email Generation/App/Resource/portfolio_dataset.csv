@@ -1,0 +1,31 @@
+Techstack,Project Name,Description,Links
+"React, Tailwind CSS, Node.js",Next.js Framework,The React framework for production,https://github.com/vercel/next.js
+"Vue.js, Firebase",VueFire,Official Firebase bindings for Vue.js,https://github.com/vuejs/vuefire
+"Angular, RxJS, TypeScript",Angular RxJS Demo,Live Angular RxJS examples,https://stackblitz.com/edit/angular-rxjs-demo
+"Python, Flask, PostgreSQL",Flask,Lightweight WSGI web application framework,https://github.com/pallets/flask
+"React Native, Expo",Expo Examples,Example apps using Expo and React Native,https://github.com/expo/examples
+"Django, REST Framework",DRF,Toolkit for building Web APIs with Django,https://github.com/encode/django-rest-framework
+"Next.js, MongoDB, Tailwind",Next.js MongoDB App,Starter template for MongoDB apps,https://vercel.com/templates/next.js/nextjs-mongodb-app
+"Express.js, Handlebars",Express,"Fast, unopinionated web framework for Node.js",https://github.com/expressjs/express
+"Golang, Gin, MySQL",Gin,HTTP web framework written in Go,https://github.com/gin-gonic/gin
+"Svelte, GraphQL, Hasura",Hasura Engine,Instant GraphQL on new or existing Postgres,https://github.com/hasura/graphql-engine
+"Node.js, Puppeteer",Puppeteer,Headless Chrome Node.js API,https://github.com/puppeteer/puppeteer
+"Laravel, Vue.js",Laravel,PHP web application framework,https://github.com/laravel/laravel
+"Ruby on Rails, PostgreSQL",Rails,Web development framework for Ruby,https://github.com/rails/rails
+"ASP.NET Core, C#",ASP.NET Core,Cross-platform .NET framework for building web apps,https://github.com/dotnet/aspnetcore
+"Three.js, WebGL",Three.js Demos,WebGL demos using Three.js,https://threejs.org/examples/#webgl_animation_skinning_blending
+"Flutter, Firebase",Flutter Firebase Sample,Sample Flutter app with Firebase integration,https://github.com/flutter/samples/tree/main/firebase_getx
+"React, Redux, Chart.js",Recharts,Charting library built with React,https://github.com/recharts/recharts
+"Next.js, Stripe API",Next.js Payments,Stripe payments integration with Next.js,https://github.com/vercel/nextjs-subscription-payments
+"FastAPI, SQLModel",FastAPI PostgreSQL,Full stack project generator with FastAPI,https://github.com/tiangolo/full-stack-fastapi-postgresql
+"Nuxt.js, Contentful",Nuxt Content,File-based CMS with Nuxt.js,https://github.com/nuxt/content
+"Elixir, Phoenix",Phoenix Framework,A productive web framework for Elixir,https://github.com/phoenixframework/phoenix
+"Rust, Rocket",Rocket,A web framework for Rust,https://github.com/SergioBenitez/Rocket
+"Kotlin, Spring Boot",Spring Boot Kotlin Demo,Spring Boot starter project using Kotlin,https://github.com/spring-projects/spring-boot
+"Blazor, .NET",Blazor Demo,Build interactive web UIs using C#,https://github.com/dotnet/blazor
+"Python, Streamlit",Streamlit Examples,Turn Python scripts into apps,https://github.com/streamlit/streamlit
+"React, GraphQL, Apollo",Apollo Client,State management library for GraphQL,https://github.com/apollographql/apollo-client
+"Unity, C#",Unity Samples,Game development samples in Unity,https://github.com/Unity-Technologies/UnityCsReference
+"React, Framer Motion",Framer Motion Examples,React animation library examples,https://github.com/framer/motion
+"Astro, Tailwind CSS",Astro Theme,Starter theme using Astro and Tailwind,https://github.com/withastro/astro
+"Node.js, TypeORM",TypeORM Starter,Node.js ORM starter project,https://github.com/typeorm/typeorm
